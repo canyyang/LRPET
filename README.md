@@ -6,7 +6,7 @@
 This is the official PyTorch implementation of [Compact Model Training by Low-Rank Projection with Energy Transfer](https://arxiv.org/abs/2204.05566).
 
 ## Introduction
-In this paper, we devise a new training method, low-rank projection with energy transfer (LRPET), that trains low-rank compressed networks from scratch and achieves competitive performance.   Comprehensive experiments on image classification, object detection and semantic segmentation have justified that our method is superior to other low-rank compression methods and also outperforms recent state-of-the-art pruning methods
+In this paper, we devise a new training method, low-rank projection with energy transfer (LRPET), that trains low-rank compressed networks from scratch and achieves competitive performance.   Comprehensive experiments on image classification, object detection and semantic segmentation have justified that our method is superior to other low-rank compression methods and also outperforms recent state-of-the-art pruning methods.
 
 ![](svd.png)
 
